@@ -1,0 +1,7 @@
+{"timestamp":18345233,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"fxms-message-2","experiment":"fox-doodle-pin-to-taskbar-holdback","reason":"invalid-feature"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"fox-doodle-pin-to-taskbar-rollout","feature":"fxms-message-2","reason":"invalid-feature"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"fox-doodle-set-default-holdback","feature":"fxms-message-3"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"fox-doodle-set-default-rollout","feature":"fxms-message-3","reason":"invalid-feature"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"echPrefs","experiment":"nightly-ech-quic","reason":"invalid-feature"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"pdfjs-feature-callout","feature":"featureCallout"}}
+{"timestamp":18345234,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"stricter-by-default-in-private-browsing-mode","feature":"etpLevel2PBMPref"}}

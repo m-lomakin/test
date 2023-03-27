@@ -1,0 +1,23 @@
+2023-03-27 13:42:11.275 [info] Уровень ведения журнала: Info
+2023-03-27 13:42:11.275 [info] Проверка найденного Git в: "git"
+2023-03-27 13:42:11.275 [info] Используется Git "2.34.1" из "git"
+2023-03-27 13:42:11.275 [info] > git rev-parse --show-toplevel [22ms]
+2023-03-27 13:42:11.275 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2023-03-27 13:42:11.275 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 13:42:11.275 [info] > git rev-parse --show-toplevel [68ms]
+2023-03-27 13:42:11.276 [info] > git config --get commit.template [28ms]
+2023-03-27 13:42:11.297 [info] No remotes found in the git config file.
+2023-03-27 13:42:11.298 [info] > git rev-parse --show-toplevel [26ms]
+2023-03-27 13:42:11.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2023-03-27 13:42:11.403 [info] > git status -z -uall [40ms]
+2023-03-27 13:42:11.404 [info] > git rev-parse --show-toplevel [81ms]
+2023-03-27 13:42:11.424 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2023-03-27 13:42:11.527 [info] No remotes found in the git config file.
+2023-03-27 13:42:11.528 [info] > git config --get commit.template [19ms]
+2023-03-27 13:42:11.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-27 13:42:11.555 [info] > git status -z -uall [16ms]
+2023-03-27 13:42:11.556 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-03-27 13:42:11.736 [info] > git check-ignore -v -z --stdin [11ms]
+2023-03-27 13:42:11.942 [info] > git show --textconv :index.html [66ms]
+2023-03-27 13:42:11.945 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [52ms]
+2023-03-27 13:42:11.960 [info] > git cat-file -s 56efbdba61ff12f90f864930b9a85eac0259666d [6ms]

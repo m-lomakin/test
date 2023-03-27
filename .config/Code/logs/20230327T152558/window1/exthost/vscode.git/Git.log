@@ -1,0 +1,33 @@
+2023-03-27 15:26:06.308 [info] Уровень ведения журнала: Info
+2023-03-27 15:26:06.309 [info] Проверка найденного Git в: "git"
+2023-03-27 15:26:06.309 [info] Используется Git "2.34.1" из "git"
+2023-03-27 15:26:06.309 [info] > git rev-parse --show-toplevel [39ms]
+2023-03-27 15:26:06.309 [info] > git rev-parse --git-dir --git-common-dir [15ms]
+2023-03-27 15:26:06.309 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 15:26:06.309 [info] > git rev-parse --show-toplevel [72ms]
+2023-03-27 15:26:06.309 [info] > git config --get commit.template [150ms]
+2023-03-27 15:26:06.309 [info] No remotes found in the git config file.
+2023-03-27 15:26:06.309 [info] > git rev-parse --show-toplevel [102ms]
+2023-03-27 15:26:06.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2023-03-27 15:26:06.309 [info] > git status -z -uall [21ms]
+2023-03-27 15:26:06.309 [info] > git rev-parse --show-toplevel [70ms]
+2023-03-27 15:26:06.309 [info] > git show --textconv d3e2c967c809cfbe64e9ca596db121226b0cbec4:index.html [140ms]
+2023-03-27 15:26:06.309 [info] > git show --textconv 6beeec065dfe84445f8561cdbe8fd186b0785d7f:index.html [122ms]
+2023-03-27 15:26:06.309 [info] > git ls-tree -l 6beeec065dfe84445f8561cdbe8fd186b0785d7f -- /home/m_lomakin/test/Project/index.html [72ms]
+2023-03-27 15:26:06.309 [info] > git ls-tree -l d3e2c967c809cfbe64e9ca596db121226b0cbec4 -- /home/m_lomakin/test/Project/index.html [96ms]
+2023-03-27 15:26:06.309 [info] > git config --get commit.template [30ms]
+2023-03-27 15:26:06.309 [info] No remotes found in the git config file.
+2023-03-27 15:26:06.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-03-27 15:26:06.309 [info] > git status -z -uall [4ms]
+2023-03-27 15:26:06.309 [info] > git check-ignore -v -z --stdin [19ms]
+2023-03-27 15:26:06.309 [info] > git ls-tree -l 6beeec065dfe84445f8561cdbe8fd186b0785d7f -- /home/m_lomakin/test/Project/index.html [27ms]
+2023-03-27 15:26:06.309 [info] > git ls-tree -l d3e2c967c809cfbe64e9ca596db121226b0cbec4 -- /home/m_lomakin/test/Project/index.html [28ms]
+2023-03-27 15:26:06.309 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n904 -- /home/m_lomakin/test/Project/index.html [10ms]
+2023-03-27 15:26:06.411 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n1807 -- /home/m_lomakin/test/Project/index.html [1ms]
+2023-03-27 15:26:44.801 [info] > git check-ignore -v -z --stdin [4ms]
+2023-03-27 15:26:49.217 [info] > git show --textconv :index.html [19ms]
+2023-03-27 15:26:49.221 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [2ms]
+2023-03-27 15:26:49.241 [info] > git cat-file -s b4dd646a3671feace7b6367ca5fe736bf24f5e87 [5ms]
+2023-03-27 15:29:33.424 [info] Уровень ведения журнала: Info
+2023-03-27 15:29:33.424 [info] Проверка найденного Git в: "git"
+2023-03-27 15:29:33.424 [info] Используется Git "2.34.1" из "git"

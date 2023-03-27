@@ -1,0 +1,7 @@
+2023-03-27 15:26:04.456 [info] Starting worker process with pid 9657 (type: fileWatcher, window: 1).
+2023-03-27 15:29:29.388 [info] Worker process with pid 9657 terminated normally (type: fileWatcher, window: 1).
+2023-03-27 15:29:30.995 [info] Starting worker process with pid 9745 (type: fileWatcher, window: 1).
+2023-03-27 15:29:48.501 [info] Starting worker process with pid 9795 (type: fileWatcher, window: 3).
+2023-03-27 15:30:40.512 [info] Starting worker process with pid 9884 (type: fileWatcher, window: 4).
+2023-03-27 15:30:43.276 [info] Worker process with pid 9795 terminated normally (type: fileWatcher, window: 3).
+2023-03-27 15:31:08.447 [info] Worker process with pid 9745 terminated normally (type: fileWatcher, window: 1).

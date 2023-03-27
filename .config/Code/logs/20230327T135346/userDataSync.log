@@ -1,0 +1,28 @@
+2023-03-27 13:53:51.805 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-03-27 13:53:51.805 [info] Auto Sync is enabled.
+2023-03-27 13:53:51.805 [info] Auto Sync: Suspended until auth token is available.
+2023-03-27 13:53:54.205 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/extensions
+2023-03-27 13:53:54.331 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/globalState
+2023-03-27 13:53:54.336 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/keybindings
+2023-03-27 13:53:54.342 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/profiles
+2023-03-27 13:53:54.348 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/settings
+2023-03-27 13:53:54.354 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/snippets
+2023-03-27 13:53:54.361 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/tasks
+2023-03-27 13:53:57.426 [info] Auto Sync: Triggered by Interval
+2023-03-27 13:53:57.427 [info] Sync started.
+2023-03-27 13:53:57.953 [info] Settings: Last sync resource does not exist locally.
+2023-03-27 13:53:58.332 [info] Settings: No changes found during synchronizing settings.
+2023-03-27 13:53:58.391 [info] Keybindings: Last sync resource does not exist locally.
+2023-03-27 13:53:58.773 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-03-27 13:53:58.799 [info] Snippets: Last sync resource does not exist locally.
+2023-03-27 13:53:58.954 [info] Snippets: No changes found during synchronizing snippets.
+2023-03-27 13:53:59.042 [info] Tasks: Last sync resource does not exist locally.
+2023-03-27 13:53:59.303 [info] Tasks: No changes found during synchronizing tasks.
+2023-03-27 13:53:59.320 [info] GlobalState: Last sync resource does not exist locally.
+2023-03-27 13:54:00.003 [info] GlobalState: Updated remote ui state. Updated: workbench.panel.pinnedPanels.
+2023-03-27 13:54:00.053 [info] GlobalState: Updated last synchronized ui state
+2023-03-27 13:54:00.069 [info] Extensions: Last sync resource does not exist locally.
+2023-03-27 13:54:00.915 [info] Extensions: No changes found during synchronizing extensions.
+2023-03-27 13:54:00.923 [info] Profiles: Last sync resource does not exist locally.
+2023-03-27 13:54:01.133 [info] Profiles: No changes found during synchronizing profiles.
+2023-03-27 13:54:01.142 [info] Sync done. Took 3716ms

@@ -1,0 +1,15 @@
+2023-03-27 14:37:28.475 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2023-03-27 14:37:28.475 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-03-27 14:37:28.475 [info] Added views:terminal in terminal
+2023-03-27 14:37:28.475 [info] Added views:outline in workbench.view.explorer
+2023-03-27 14:37:28.475 [info] Added views:workbench.scm in workbench.view.scm
+2023-03-27 14:37:28.475 [info] Added views:workbench.view.search in workbench.view.search
+2023-03-27 14:37:28.475 [info] Added views:timeline in workbench.view.explorer
+2023-03-27 14:37:28.475 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-03-27 14:37:28.932 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-03-27 14:37:30.394 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-03-27 14:48:14.858 [info] Added views:workbench.views.profiles.export.preview in userDataProfiles
+2023-03-27 15:09:52.827 [info] Removed views:workbench.views.profiles.export.preview from userDataProfiles
+2023-03-27 15:16:54.844 [info] Showing view workbench.scm.repositories in the container workbench.view.scm
+2023-03-27 15:16:54.845 [info] Added views:workbench.scm.repositories in workbench.view.scm
+2023-03-27 15:25:55.129 [info] Removed views:workbench.scm.repositories from workbench.view.scm

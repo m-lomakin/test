@@ -1,0 +1,9 @@
+2023-03-27 15:30:44.096 [info] [perf] Render performance baseline is 113ms
+2023-03-27 19:42:21.321 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/m_lomakin/test/Project/Project)
+2023-03-27 19:42:24.779 [error] Cannot read properties of undefined (reading 'dispose'): TypeError: Cannot read properties of undefined (reading 'dispose')
+    at $e.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2304:19500)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:84:27456
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at n.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2066)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1704)
+    at ge (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:84:27982)

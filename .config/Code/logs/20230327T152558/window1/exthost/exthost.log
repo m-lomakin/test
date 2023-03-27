@@ -1,0 +1,63 @@
+2023-03-27 15:26:01.912 [info] Extension host with pid 9587 started
+2023-03-27 15:26:01.912 [info] Skipping acquiring lock for /home/m_lomakin/.config/Code/User/workspaceStorage/f48f8225eeeaf3988626eff26ff2e790.
+2023-03-27 15:26:02.112 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2023-03-27 15:26:02.122 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-27 15:26:03.888 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2023-03-27 15:26:03.898 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-27 15:26:03.987 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-27 15:26:04.690 [info] Eager extensions activated
+2023-03-27 15:26:05.064 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 15:26:05.076 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 15:26:06.140 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-27 15:26:07.286 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-27 15:26:08.904 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-27 15:26:08.905 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-27 15:26:08.906 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-27 15:29:29.294 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-27 15:29:29.372 [error] Canceled: Canceled
+	at new l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at a.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at V.<computed>.Q.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at N.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at c.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at c.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at c.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1481856)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1485909)
+	at C.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at C.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1469257)
+	at C.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:14731)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-03-27 15:29:29.426 [info] Extension host with pid 9587 exiting with code 0
+2023-03-27 15:29:32.633 [info] Extension host with pid 9747 started
+2023-03-27 15:29:32.731 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-27 15:29:32.739 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-27 15:29:32.881 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-27 15:29:32.882 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-27 15:29:33.013 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-27 15:29:33.285 [info] Eager extensions activated
+2023-03-27 15:29:33.382 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 15:29:33.401 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 15:29:33.537 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-27 15:31:08.366 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-27 15:31:08.408 [info] Extension host with pid 9747 exiting with code 0

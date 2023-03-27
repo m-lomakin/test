@@ -1,0 +1,53 @@
+{
+  "clientId": "c17bc854-39bd-4a24-bd06-5b1651df5341",
+  "userId": "1220969190772054039",
+  "authedUserIDs": [
+    "1220969190772054039"
+  ],
+  "app": {
+    "logLevel": 1,
+    "enableColorSpaceSrgb": false,
+    "visibleNewProjectBtn": true,
+    "useZenity": false,
+    "disableThemes": false,
+    "panelHeight": 40,
+    "saveLastOpenedTabs": true,
+    "exportDir": "/home/m_lomakin/Pictures/Figma",
+    "fontDirs": [
+      "/usr/share/fonts",
+      "/usr/local/share/fonts",
+      "/run/host/fonts",
+      "/run/host/user-fonts",
+      "/home/m_lomakin/.local/share/fonts"
+    ],
+    "lastOpenedTabs": [],
+    "featureFlags": {
+      "comments_on_the_canvas": true,
+      "voice_captions_enabled": true,
+      "desktop_disable_cs_prompt": true,
+      "desktop_menu_unification_rollout": true,
+      "paste_to_replace": true,
+      "vector_menu_after_arrange": true,
+      "figjam_miro_import": true,
+      "use_freetype": true,
+      "desktop_always_preload": true,
+      "desktop_disable_accelerators": true,
+      "desktop_new_tab_v2_dev": true,
+      "desktop_new_tab_v2_rollout": true,
+      "desktop_bell_feed_dev": false,
+      "desktop_bell_feed_rollout": true,
+      "desktop_arm_translation_dialog": true,
+      "desktop_file_browser_autorefresh": true,
+      "desktop_community_tab_rollout_v2": true,
+      "desktop_push_notifs_mac": true,
+      "desktop_push_notifs_win": true,
+      "desktop_tab_preview_rollout": true
+    },
+    "savedExtensions": []
+  },
+  "theme": {},
+  "ui": {
+    "scalePanel": 1,
+    "scaleFigmaUI": 1
+  }
+}

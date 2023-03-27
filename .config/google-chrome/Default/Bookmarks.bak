@@ -1,0 +1,58 @@
+{
+   "checksum": "93b52f3e0fd87e0ce9f1a6be5e8830f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13321010580397895",
+            "date_last_used": "0",
+            "guid": "b5deaf57-6113-4ffc-a856-4fb08902ec99",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13321010589365316",
+            "date_last_used": "0",
+            "guid": "482703d5-3594-4b9e-8560-effef9a61391",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Перевести",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         } ],
+         "date_added": "13321010417920533",
+         "date_last_used": "0",
+         "date_modified": "13321010589365316",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321010417920540",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321010417920546",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

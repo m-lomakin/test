@@ -1,0 +1,25 @@
+2023-03-27 15:25:58.892 [info] update#setState idle
+2023-03-27 15:26:01.024 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-27 15:26:01.047 [info] [UtilityProcess id: 1, type: extensionHost, pid: 9587]: successfully created
+2023-03-27 15:26:28.896 [info] update#setState checking for updates
+2023-03-27 15:26:28.979 [info] update#setState idle
+2023-03-27 15:29:29.436 [info] [UtilityProcess id: 1, type: extensionHost, pid: 9587]: received exit event with code 0
+2023-03-27 15:29:29.437 [info] Extension host with pid 9587 exited with code: 0, signal: unknown.
+2023-03-27 15:29:30.929 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-03-27 15:29:30.988 [info] [UtilityProcess id: 2, type: extensionHost, pid: 9747]: successfully created
+2023-03-27 15:29:48.510 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-03-27 15:29:48.531 [info] [UtilityProcess id: 3, type: extensionHost, pid: 9799]: successfully created
+2023-03-27 15:30:40.385 [info] [UtilityProcess id: 4, type: extensionHost, pid: <none>]: creating new...
+2023-03-27 15:30:40.414 [info] [UtilityProcess id: 4, type: extensionHost, pid: 9883]: successfully created
+2023-03-27 15:30:43.208 [info] [UtilityProcess id: 3, type: extensionHost, pid: 9799]: received exit event with code 0
+2023-03-27 15:30:43.208 [info] Extension host with pid 9799 exited with code: 0, signal: unknown.
+2023-03-27 15:31:08.412 [info] [UtilityProcess id: 2, type: extensionHost, pid: 9747]: received exit event with code 0
+2023-03-27 15:31:08.416 [info] Extension host with pid 9747 exited with code: 0, signal: unknown.
+2023-03-27 16:26:28.911 [info] update#setState checking for updates
+2023-03-27 16:26:29.157 [info] update#setState idle
+2023-03-27 17:26:28.957 [info] update#setState checking for updates
+2023-03-27 17:26:29.161 [info] update#setState idle
+2023-03-27 18:26:28.975 [info] update#setState checking for updates
+2023-03-27 18:26:29.239 [info] update#setState idle
+2023-03-27 19:26:29.031 [info] update#setState checking for updates
+2023-03-27 19:26:29.453 [info] update#setState idle

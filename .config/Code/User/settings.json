@@ -1,0 +1,6 @@
+{
+    "workbench.startupEditor": "none",
+    "grunt.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "git.autofetch": true
+}

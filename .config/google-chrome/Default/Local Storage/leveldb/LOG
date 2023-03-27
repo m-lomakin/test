@@ -1,0 +1,21 @@
+2023/03/27-13:34:24.118 3 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000002
+2023/03/27-13:34:24.123 3 Recovering log #38
+2023/03/27-13:34:24.130 3 Reusing old log /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/000038.log 
+2023/03/27-13:35:49.281 5 Level-0 table #42: started
+2023/03/27-13:35:49.330 5 Level-0 table #42: 30337 bytes OK
+2023/03/27-13:35:49.411 5 Delete type=0 #38
+2023/03/27-13:35:49.413 5 Compacting 4@0 + 1@1 files
+2023/03/27-13:35:49.507 5 Generated table #43@0: 428 keys, 192964 bytes
+2023/03/27-13:35:49.507 5 Compacted 4@0 + 1@1 files => 192964 bytes
+2023/03/27-13:35:49.601 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/27-13:35:49.603 5 Delete type=2 #37
+2023/03/27-13:35:49.603 5 Delete type=2 #34
+2023/03/27-13:35:49.603 5 Delete type=2 #39
+2023/03/27-13:35:49.603 5 Delete type=2 #42
+2023/03/27-13:35:49.603 5 Delete type=2 #32
+2023/03/27-17:51:14.199 3 Level-0 table #45: started
+2023/03/27-17:51:14.245 3 Level-0 table #45: 23676 bytes OK
+2023/03/27-17:51:14.303 3 Delete type=0 #41
+2023/03/27-18:44:01.893 5 Level-0 table #47: started
+2023/03/27-18:44:01.936 5 Level-0 table #47: 20099 bytes OK
+2023/03/27-18:44:02.005 5 Delete type=0 #44

@@ -1,0 +1,119 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/m_lomakin/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: строка 16: has_option: команда не найдена
+/etc/X11/Xsession.d/75dbus_dbus-launch: строка 9: has_option: команда не найдена
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: строка 9: has_option: команда не найдена
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=ru_RU:ru
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/m_lomakin
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=m_lomakin
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/m_lomakin/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/m_lomakin
+dbus-update-activation-environment: setting GDM_LANG=ru
+dbus-update-activation-environment: setting HOME=/home/m_lomakin
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=m_lomakin
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/m_lomakin/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 11:51:03.072: couldn't access control socket: /run/user/1000/keyring/control: Нет такого файла или каталога
+** Message: 11:51:03.074: couldn't access control socket: /run/user/1000/keyring/control: Нет такого файла или каталога
+** Message: 11:51:03.074: couldn't access control socket: /run/user/1000/keyring/control: Нет такого файла или каталога
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+mutter-Message: 11:51:14.784: Enabling experimental feature 'x11-randr-fractional-scaling'
+Gjs-Message: 11:51:15.574: Profiler is disabled. Not setting up signals.
+Gjs-Message: 11:51:16.795: JS LOG: About to start Cinnamon
+Gjs-Message: 11:51:17.974: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1171 ms
+Gjs-Message: 11:51:18.017: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 11:51:18.124: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+
+(cinnamon:1355): Gjs-WARNING **: 11:51:18.149: Some code accessed the property 'UiActor' on the module 'layout'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Gjs-Message: 11:51:18.701: JS LOG: [LookingGlass/info] loaded at Mon Mar 27 2023 11:51:18 GMT+0300 (Москва, стандартное время)
+Gjs-Message: 11:51:18.702: JS LOG: Cinnamon started at Mon Mar 27 2023 11:51:18 GMT+0300 (Москва, стандартное время)
+Gjs-Message: 11:51:18.703: JS LOG: GPU offload supported: false
+Gjs-Message: 11:51:18.788: JS LOG: [LookingGlass/info] ExtensionSystem started in 3 ms
+Gjs-Message: 11:51:18.789: JS LOG: [LookingGlass/info] DeskletManager started in 3 ms
+Gjs-Message: 11:51:18.789: JS LOG: [LookingGlass/info] SearchProviderManager started in 4 ms
+Gjs-Message: 11:51:21.612: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 1002 ms
+Gjs-Message: 11:51:21.633: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 11:51:21.645: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 31 ms
+Gjs-Message: 11:51:22.270: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 625 ms
+Gjs-Message: 11:51:22.508: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 238 ms
+Gjs-Message: 11:51:23.126: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 616 ms
+Gjs-Message: 11:51:23.151: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 25 ms
+Gjs-Message: 11:51:23.154: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 11:51:26.314: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 3163 ms
+Gjs-Message: 11:51:26.331: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 17 ms
+Gjs-Message: 11:51:27.667: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 1336 ms
+Gjs-Message: 11:51:27.970: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 11:51:27.990: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 316 ms
+blueman-applet 11.51.28 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 11.51.28 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 11:51:28.618: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 628 ms
+Gjs-Message: 11:51:30.002: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 11:51:30.003: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 11:51:30.018: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 1400 ms
+
+** (csd-power:1223): CRITICAL **: 11:51:30.281: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 11:51:30.634: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 616 ms
+** Message: 11:51:30.959: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 11:51:31.080: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 445 ms
+Gjs-Message: 11:51:31.300: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+Gjs-Message: 11:51:31.769: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 689 ms
+Gjs-Message: 11:51:31.770: JS LOG: [LookingGlass/info] AppletManager started in 13067 ms
+Gjs-Message: 11:51:31.777: JS LOG: [LookingGlass/info] Cinnamon took 14981 ms to start
+Gjs-Message: 11:51:31.779: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 11:51:31.819: JS LOG: Unknown network device type, is 14
+cinnamon-session[955]: WARNING: t+29,81191s: Detected that screensaver has appeared on the bus
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1332: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:763: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:770: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 11:51:43.334: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.72/org/x/StatusIcon/Icon)
+blueman-applet 11.51.53 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Gjs-Message: 11:52:01.484: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.76/org/x/StatusIcon/Icon)
+Gjs-Message: 11:52:01.496: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.76/org/x/StatusIcon/Icon_1)
+cinnamon-session[955]: WARNING: t+59,82918s: Detected that screensaver has left the bus
+
+(cinnamon:1355): Clutter-WARNING **: 11:53:33.807: ../clutter/clutter/clutter-actor.c:10397: Actor 'StBin' tried to allocate a size of -108,00 x 16,00
+Window manager warning: WM_TRANSIENT_FOR window 0x2e01313 for 0x2e05a70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x2e00007.
+Window manager warning: WM_TRANSIENT_FOR window 0x2e01313 for 0x2e05a70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x2e00007.
+Window manager warning: WM_TRANSIENT_FOR window 0x2e01313 for 0x2e05a70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x2e00007.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5e00003
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3200003
+cinnamon-session[955]: WARNING: t+9483,31296s: Detected that screensaver has appeared on the bus
+cinnamon-session[955]: WARNING: t+10002,89706s: Detected that screensaver has left the bus
+cinnamon-session[955]: WARNING: t+14809,21115s: Detected that screensaver has appeared on the bus
+cinnamon-session[955]: WARNING: t+20568,78572s: Detected that screensaver has left the bus

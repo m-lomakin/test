@@ -1,0 +1,60 @@
+2023-03-27 12:48:12.244 [info] Уровень ведения журнала: Info
+2023-03-27 12:48:12.245 [info] Проверка найденного Git в: "git"
+2023-03-27 12:48:12.299 [info] Используется Git "2.34.1" из "git"
+2023-03-27 12:48:12.376 [info] > git rev-parse --show-toplevel [56ms]
+2023-03-27 12:48:12.376 [info] fatal: не найден git репозиторий (или один из родительских каталогов): .git
+2023-03-27 12:48:12.428 [info] > git rev-parse --show-toplevel [45ms]
+2023-03-27 12:48:12.428 [info] fatal: не найден git репозиторий (или один из родительских каталогов): .git
+2023-03-27 12:48:12.755 [info] > git rev-parse --show-toplevel [318ms]
+2023-03-27 12:48:12.818 [info] > git rev-parse --git-dir --git-common-dir [43ms]
+2023-03-27 12:48:12.862 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 12:48:12.959 [info] > git rev-parse --show-toplevel [37ms]
+2023-03-27 12:48:12.959 [info] fatal: не найден git репозиторий (или один из родительских каталогов): .git
+2023-03-27 12:48:12.993 [info] > git rev-parse --show-toplevel [17ms]
+2023-03-27 12:48:12.993 [info] fatal: не найден git репозиторий (или один из родительских каталогов): .git
+2023-03-27 12:48:13.003 [info] > git config --get commit.template [45ms]
+2023-03-27 12:48:13.022 [info] No remotes found in the git config file.
+2023-03-27 12:48:13.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-03-27 12:48:13.075 [info] > git status -z -uall [22ms]
+2023-03-27 12:48:13.080 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-03-27 12:48:13.131 [info] No remotes found in the git config file.
+2023-03-27 12:48:13.134 [info] > git config --get commit.template [27ms]
+2023-03-27 12:48:13.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-03-27 12:48:13.173 [info] > git status -z -uall [18ms]
+2023-03-27 12:48:13.178 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-03-27 12:48:13.501 [info] > git check-ignore -v -z --stdin [3ms]
+2023-03-27 12:49:28.704 [info] Уровень ведения журнала: Info
+2023-03-27 12:49:28.704 [info] Проверка найденного Git в: "git"
+2023-03-27 12:49:28.704 [info] Используется Git "2.34.1" из "git"
+2023-03-27 12:51:41.110 [info] Уровень ведения журнала: Info
+2023-03-27 12:51:41.110 [info] Проверка найденного Git в: "git"
+2023-03-27 12:51:41.110 [info] Используется Git "2.34.1" из "git"
+2023-03-27 12:51:41.116 [info] > git rev-parse --show-toplevel [57ms]
+2023-03-27 12:51:41.152 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-03-27 12:51:41.172 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 12:51:41.207 [info] > git rev-parse --show-toplevel [24ms]
+2023-03-27 12:51:41.224 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-27 12:51:41.235 [info] > git config --get commit.template [38ms]
+2023-03-27 12:51:41.306 [info] No remotes found in the git config file.
+2023-03-27 12:51:41.307 [info] > git rev-parse --show-toplevel [73ms]
+2023-03-27 12:51:41.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-03-27 12:51:41.344 [info] > git status -z -uall [15ms]
+2023-03-27 12:51:41.348 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-03-27 12:51:41.390 [info] No remotes found in the git config file.
+2023-03-27 12:51:41.391 [info] > git config --get commit.template [14ms]
+2023-03-27 12:51:41.396 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-03-27 12:51:41.428 [info] > git status -z -uall [22ms]
+2023-03-27 12:51:41.441 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2023-03-27 12:51:41.767 [info] > git check-ignore -v -z --stdin [8ms]
+2023-03-27 13:10:21.820 [info] > git show --textconv :index.html [14ms]
+2023-03-27 13:10:21.824 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [5ms]
+2023-03-27 13:10:21.836 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [4ms]
+2023-03-27 13:10:40.143 [info] No remotes found in the git config file.
+2023-03-27 13:10:40.145 [info] > git config --get commit.template [15ms]
+2023-03-27 13:10:40.154 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-03-27 13:10:40.201 [info] > git status -z -uall [29ms]
+2023-03-27 13:10:40.203 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-03-27 13:12:19.190 [info] > git show --textconv HEAD:index.html [18ms]
+2023-03-27 13:12:19.200 [info] > git ls-tree -l HEAD -- /home/m_lomakin/test/Project/index.html [11ms]
+2023-03-27 13:13:56.710 [info] > git ls-tree -l HEAD -- /home/m_lomakin/test/Project/index.html [1ms]
+2023-03-27 13:27:06.658 [info] > git ls-tree -l HEAD -- /home/m_lomakin/test/Project/index.html [3ms]

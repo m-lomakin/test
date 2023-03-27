@@ -1,0 +1,11 @@
+2023-03-27 13:53:52.898 [info] Starting worker process with pid 6706 (type: fileWatcher, window: 1).
+2023-03-27 13:53:57.581 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:53:57.837 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:54:04.103 [info] Extension signature verification: ms-ceintl.vscode-language-pack-ru. Verification status: Verified.
+2023-03-27 13:54:04.456 [info] Extracted extension to /home/m_lomakin/.vscode/extensions/.99d748dd-0cbd-47c9-965f-d42fd09332e7: ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:54:04.530 [info] Renamed to /home/m_lomakin/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.76.2023031509
+2023-03-27 13:54:04.535 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:54:04.602 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:54:04.787 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.75.2023021509
+2023-03-27 13:54:05.098 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-03-27 13:54:31.358 [error] [uncaught exception in sharedProcess]: Произошла системная ошибка (ENOENT: no such file or directory, scandir '/home/m_lomakin/.config/Code/clp/7f08953c04867e55490295da5e259c53.ru'): Error: ENOENT: no such file or directory, scandir '/home/m_lomakin/.config/Code/clp/7f08953c04867e55490295da5e259c53.ru'

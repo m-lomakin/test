@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/m_lomakin/FigmaSetup.exe" added="2023-03-24T05:22:35.461193Z" modified="2023-03-24T05:22:40.651141Z" visited="2023-03-24T05:22:35.461195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2023-03-24T05:22:35.461201Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-24T05:22:40.651135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/m_lomakin/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/figma-linux_0.10.0_linux_amd64.deb" added="2023-03-24T05:26:13.224454Z" modified="2023-03-24T05:27:46.713000Z" visited="2023-03-24T05:26:13.224457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2023-03-24T05:26:13.224465Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;gdebi-gtk %f&apos;" modified="2023-03-24T05:27:46.712997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/m_lomakin/0E41772B0E8BEE58" added="2023-03-24T05:27:31.073019Z" modified="2023-03-24T05:27:32.911500Z" visited="2023-03-24T05:27:31.073024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;nemo %U&apos;" modified="2023-03-24T05:27:32.911496Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/m_lomakin/test/Project" added="2023-03-27T09:51:36.347731Z" modified="2023-03-27T12:30:30.446839Z" visited="2023-03-27T09:51:36.347734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-27T12:30:30.446831Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/m_lomakin/test/Project/img/HTML-IMG.-Vstavka-izobrazhenij-na-vashu-stranitsu.jpg" added="2023-03-27T10:34:13.689224Z" modified="2023-03-27T10:34:13.939526Z" visited="2023-03-27T10:34:13.689226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2023-03-27T10:34:13.939517Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/m_lomakin/test/Project/img/code_1.76.2-1678817801_amd64.deb" added="2023-03-27T10:50:41.044274Z" modified="2023-03-27T12:13:39.437905Z" visited="2023-03-27T10:50:41.044276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2023-03-27T10:50:41.294264Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;gdebi-gtk %f&apos;" modified="2023-03-27T12:13:39.437895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

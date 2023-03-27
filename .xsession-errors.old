@@ -1,0 +1,137 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/m_lomakin/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: строка 16: has_option: команда не найдена
+/etc/X11/Xsession.d/75dbus_dbus-launch: строка 9: has_option: команда не найдена
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: строка 9: has_option: команда не найдена
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=ru_RU:ru
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/m_lomakin
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=m_lomakin
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/m_lomakin/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/m_lomakin
+dbus-update-activation-environment: setting GDM_LANG=ru
+dbus-update-activation-environment: setting HOME=/home/m_lomakin
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=m_lomakin
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/m_lomakin/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 08:16:37.659: couldn't access control socket: /run/user/1000/keyring/control: Нет такого файла или каталога
+** Message: 08:16:37.662: couldn't access control socket: /run/user/1000/keyring/control: Нет такого файла или каталога
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+mutter-Message: 08:16:48.666: Enabling experimental feature 'x11-randr-fractional-scaling'
+Gjs-Message: 08:16:49.423: Profiler is disabled. Not setting up signals.
+Gjs-Message: 08:16:50.627: JS LOG: About to start Cinnamon
+Gjs-Message: 08:16:51.764: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1130 ms
+Gjs-Message: 08:16:51.815: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 08:16:51.922: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+
+(cinnamon:1362): Gjs-WARNING **: 08:16:51.947: Some code accessed the property 'UiActor' on the module 'layout'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Gjs-Message: 08:16:52.467: JS LOG: [LookingGlass/info] loaded at Fri Mar 24 2023 08:16:52 GMT+0300 (Москва, стандартное время)
+Gjs-Message: 08:16:52.467: JS LOG: Cinnamon started at Fri Mar 24 2023 08:16:52 GMT+0300 (Москва, стандартное время)
+Gjs-Message: 08:16:52.468: JS LOG: GPU offload supported: false
+Gjs-Message: 08:16:52.551: JS LOG: [LookingGlass/info] ExtensionSystem started in 4 ms
+Gjs-Message: 08:16:52.552: JS LOG: [LookingGlass/info] DeskletManager started in 4 ms
+Gjs-Message: 08:16:52.552: JS LOG: [LookingGlass/info] SearchProviderManager started in 3 ms
+Gjs-Message: 08:16:58.406: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 08:16:58.453: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 08:16:58.459: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 3578 ms
+Gjs-Message: 08:16:58.474: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 15 ms
+Gjs-Message: 08:17:00.098: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 1624 ms
+Gjs-Message: 08:17:00.508: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 410 ms
+Gjs-Message: 08:17:00.527: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 17 ms
+Gjs-Message: 08:17:00.881: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 08:17:00.917: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 390 ms
+blueman-applet 08.17.01 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 08.17.01 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 08:17:02.175: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 1258 ms
+Gjs-Message: 08:17:02.703: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 528 ms
+Gjs-Message: 08:17:02.979: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 276 ms
+Gjs-Message: 08:17:03.032: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 53 ms
+Gjs-Message: 08:17:03.500: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 468 ms
+Gjs-Message: 08:17:03.676: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 08:17:03.677: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 08:17:03.685: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 185 ms
+Gjs-Message: 08:17:04.016: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.50/org/x/StatusIcon/Icon)
+
+** (csd-power:1229): CRITICAL **: 08:17:04.055: abs_to_percentage: assertion 'max > min' failed
+** Message: 08:17:04.413: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 08:17:04.576: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 891 ms
+Gjs-Message: 08:17:04.958: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.50/org/x/StatusIcon/Icon)
+Gjs-Message: 08:17:05.207: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 631 ms
+Gjs-Message: 08:17:05.541: JS LOG: Unknown network device type, is 14
+Gjs-Message: 08:17:06.134: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 927 ms
+Gjs-Message: 08:17:06.135: JS LOG: [LookingGlass/info] AppletManager started in 13666 ms
+Gjs-Message: 08:17:06.141: JS LOG: [LookingGlass/info] Cinnamon took 15513 ms to start
+Gjs-Message: 08:17:06.142: JS LOG: calendar@cinnamon.org: Calendar events supported.
+cinnamon-session[963]: WARNING: t+29,84488s: Detected that screensaver has appeared on the bus
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1332: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+blueman-applet 08.17.26 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:763: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:770: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 08:17:28.668: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.71/org/x/StatusIcon/Icon)
+cinnamon-session[963]: WARNING: t+59,85950s: Detected that screensaver has left the bus
+Gjs-Message: 08:17:37.728: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.75/org/x/StatusIcon/Icon)
+Gjs-Message: 08:17:37.747: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.75/org/x/StatusIcon/Icon_1)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4c00007
+Nemo-Share-Message: 08:27:41.798: Called "net usershare info" but it failed: Ошибка 255 при запуске 'net usershare': net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Нет такого файла или каталога
+Please ask your system administrator to enable user sharing.
+
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3200003
+cinnamon-session[963]: WARNING: t+3114,45942s: Detected that screensaver has appeared on the bus
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x400023
+cinnamon-session[963]: WARNING: t+48420,60178s: Client '/org/gnome/SessionManager/Client10' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,60388s: Client '/org/gnome/SessionManager/Client23' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,60888s: Client '/org/gnome/SessionManager/Client18' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,60923s: Client '/org/gnome/SessionManager/Client15' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,60951s: Client '/org/gnome/SessionManager/Client12' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,60978s: Client '/org/gnome/SessionManager/Client3' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,61005s: Client '/org/gnome/SessionManager/Client14' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,61031s: Client '/org/gnome/SessionManager/Client24' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,61058s: Client '/org/gnome/SessionManager/Client21' failed to reply before timeout
+cinnamon-session[963]: WARNING: t+48420,61084s: Client '/org/gnome/SessionManager/Client19' failed to reply before timeout
+
+(cinnamon-session:963): Gtk-WARNING **: 21:43:40.062: gtk_window_set_titlebar() called on a realized window
+cinnamon-session[963]: WARNING: t+48424,18478s: Detected that screensaver has left the bus
+cinnamon-session[963]: WARNING: t+48425,27067s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+cinnamon-session[963]: WARNING: t+48429,07738s: Finished playing logout sound
+cinnamon-session[963]: WARNING: t+48429,07810s: Resuming logout sequence...
+cinnamon-session[963]: WARNING: t+48429,95655s: Requesting system shutdown...
+cinnamon-session[963]: WARNING: t+48429,95689s: Attempting to shutdown using systemd...
+cinnamon-session[963]: WARNING: t+48430,81287s: Application 'cinnamon-settings-daemon-clipboard.desktop' killed by signal 15
+cinnamon-session[963]: WARNING: t+48430,87198s: Application 'cinnamon-settings-daemon-color.desktop' killed by signal 15
+cinnamon-session[963]: WARNING: t+48430,88352s: Application 'cinnamon-settings-daemon-power.desktop' killed by signal 15
+cinnamon-session[963]: WARNING: t+48430,88702s: Application 'cinnamon-settings-daemon-media-keys.desktop' killed by signal 15

@@ -1,0 +1,6 @@
+2023/03/27-17:37:17.917 1107 Creating DB /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2023/03/27-17:37:18.317 1107 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-17:51:41.879 1108 Level-0 table #5: started
+2023/03/27-17:51:41.912 1108 Level-0 table #5: 4544 bytes OK
+2023/03/27-17:51:41.947 1108 Delete type=0 #3
+2023/03/27-17:51:41.947 1108 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
