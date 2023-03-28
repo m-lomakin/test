@@ -1,2 +1,7 @@
-2023/03/15-10:30:32.577 f9b Creating DB /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
-2023/03/15-10:30:32.769 f9b Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-20:50:09.462 1107 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-20:50:09.464 1107 Recovering log #3
+2023/03/27-20:50:09.467 1107 Reusing old log /home/m_lomakin/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000003.log 
+2023/03/27-20:51:16.657 1107 Level-0 table #5: started
+2023/03/27-20:51:16.691 1107 Level-0 table #5: 3670 bytes OK
+2023/03/27-20:51:16.723 1107 Delete type=0 #3
+2023/03/27-20:51:16.724 1107 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

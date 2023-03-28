@@ -1,0 +1,6 @@
+l10n: Configured to file:///home/m_lomakin/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.76.2023031509/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 20:05:31.272] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/m_lomakin/test/Project/Project/README.md
+[Trace 20:05:31.273] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/m_lomakin/test/Project/Project/README.md
+[Trace 20:05:31.276] Server: connection.languages.diagnostics.on: file:///home/m_lomakin/test/Project/Project/README.md
+[Trace 20:05:31.335] DocumentSymbolProvider: provideDocumentSymbols — file:///home/m_lomakin/test/Project/Project/README.md 1
+[Debug 20:05:31.335] LinkProvider: compute - file:///home/m_lomakin/test/Project/Project/README.md

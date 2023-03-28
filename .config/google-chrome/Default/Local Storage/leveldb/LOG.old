@@ -1,9 +1,33 @@
-2023/03/27-13:18:21.550 3 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000002
-2023/03/27-13:18:21.553 3 Recovering log #33
-2023/03/27-13:18:21.553 3 Reusing old log /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/000033.log 
-2023/03/27-13:26:21.253 5 Level-0 table #37: started
-2023/03/27-13:26:21.300 5 Level-0 table #37: 20807 bytes OK
-2023/03/27-13:26:21.329 5 Delete type=0 #33
-2023/03/27-13:30:32.253 5 Level-0 table #39: started
-2023/03/27-13:30:32.295 5 Level-0 table #39: 50915 bytes OK
-2023/03/27-13:30:32.329 5 Delete type=0 #36
+2023/03/27-22:30:40.253 3 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000002
+2023/03/27-22:30:40.317 3 Recovering log #50
+2023/03/27-22:30:40.412 3 Reusing old log /home/m_lomakin/.config/google-chrome/Default/Local Storage/leveldb/000050.log 
+2023/03/27-22:42:03.058 5 Level-0 table #55: started
+2023/03/27-22:42:03.105 5 Level-0 table #55: 41144 bytes OK
+2023/03/27-22:42:03.134 5 Delete type=0 #50
+2023/03/27-23:15:59.609 5 Level-0 table #57: started
+2023/03/27-23:15:59.658 5 Level-0 table #57: 26645 bytes OK
+2023/03/27-23:15:59.690 5 Delete type=0 #54
+2023/03/27-23:19:14.769 5 Level-0 table #59: started
+2023/03/27-23:19:14.813 5 Level-0 table #59: 49289 bytes OK
+2023/03/27-23:19:14.846 5 Delete type=0 #56
+2023/03/27-23:24:47.461 5 Level-0 table #61: started
+2023/03/27-23:24:47.499 5 Level-0 table #61: 29537 bytes OK
+2023/03/27-23:24:47.535 5 Delete type=0 #58
+2023/03/27-23:24:47.535 5 Compacting 4@0 + 1@1 files
+2023/03/27-23:24:47.584 5 Generated table #62@0: 533 keys, 210119 bytes
+2023/03/27-23:24:47.584 5 Compacted 4@0 + 1@1 files => 210119 bytes
+2023/03/27-23:24:47.646 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/27-23:24:47.647 5 Delete type=2 #52
+2023/03/27-23:24:47.647 5 Delete type=2 #55
+2023/03/27-23:24:47.647 5 Delete type=2 #57
+2023/03/27-23:24:47.647 5 Delete type=2 #59
+2023/03/27-23:24:47.647 5 Delete type=2 #61
+2023/03/27-23:36:31.584 5 Level-0 table #64: started
+2023/03/27-23:36:31.624 5 Level-0 table #64: 47273 bytes OK
+2023/03/27-23:36:31.657 5 Delete type=0 #60
+2023/03/27-23:41:56.025 5 Level-0 table #66: started
+2023/03/27-23:41:56.069 5 Level-0 table #66: 35242 bytes OK
+2023/03/27-23:41:56.101 5 Delete type=0 #63
+2023/03/27-23:50:31.953 5 Level-0 table #68: started
+2023/03/27-23:50:32.005 5 Level-0 table #68: 28586 bytes OK
+2023/03/27-23:50:32.038 5 Delete type=0 #65

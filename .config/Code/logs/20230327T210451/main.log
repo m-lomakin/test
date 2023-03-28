@@ -1,0 +1,11 @@
+2023-03-27 21:04:52.589 [info] update#setState idle
+2023-03-27 21:04:56.754 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-27 21:04:56.775 [info] [UtilityProcess id: 1, type: extensionHost, pid: 16194]: successfully created
+2023-03-27 21:05:22.595 [info] update#setState checking for updates
+2023-03-27 21:05:22.673 [info] update#setState idle
+2023-03-27 22:05:22.608 [info] update#setState checking for updates
+2023-03-27 22:05:22.972 [info] update#setState idle
+2023-03-27 22:12:58.847 [info] [UtilityProcess id: 1, type: extensionHost, pid: 16194]: received exit event with code 15
+2023-03-27 22:12:58.848 [info] Extension host with pid 16194 exited with code: 15, signal: unknown.
+2023-03-27 22:12:58.850 [error] [UtilityProcess id: 1, type: extensionHost, pid: 16194]: crashed with code 15 and reason 'killed'
+2023-03-27 22:12:58.891 [error] SharedProcess: renderer process gone (reason: killed, code: 15)

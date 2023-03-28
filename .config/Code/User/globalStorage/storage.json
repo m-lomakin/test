@@ -4,42 +4,34 @@
         "workspaces": {
             "file:///home/m_lomakin/test": "__default__profile__",
             "file:///home/m_lomakin/test/Project": "__default__profile__",
-            "file:///home/m_lomakin/test/Project/Project": "__default__profile__"
+            "file:///home/m_lomakin/test/Project/Project": "__default__profile__",
+            "file:///home/m_lomakin/.config/Code/Workspaces/1679939129262/workspace.json": "__default__profile__"
         },
-        "emptyWindows": {
-            "1679920169465": "__default__profile__",
-            "1679920186976": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "21046092cad5175b575c8ca057ed0c164c02e440f467b6d82d7fdde712d4b35f",
     "backupWorkspaces": {
-        "workspaces": [],
-        "folders": [
+        "workspaces": [
             {
-                "folderUri": "file:///home/m_lomakin/test/Project"
-            },
-            {
-                "folderUri": "file:///home/m_lomakin/test/Project/Project"
+                "id": "3c5df32debc9de8a424c746a076ecfad",
+                "configURIPath": "file:///home/m_lomakin/.config/Code/Workspaces/1679939129262/workspace.json"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1679920169465"
-            },
-            {
-                "backupFolder": "1679920186976"
-            }
-        ]
+        "folders": [],
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/m_lomakin/test/Project/Project",
-            "backupPath": "/home/m_lomakin/.config/Code/Backups/8758524db0f17a43d23bc74084d8d4c7",
+            "workspaceIdentifier": {
+                "id": "3c5df32debc9de8a424c746a076ecfad",
+                "configURIPath": "file:///home/m_lomakin/.config/Code/Workspaces/1679939129262/workspace.json"
+            },
+            "backupPath": "/home/m_lomakin/.config/Code/Backups/3c5df32debc9de8a424c746a076ecfad",
             "uiState": {
                 "mode": 1,
                 "x": 478,
-                "y": 214,
+                "y": 270,
                 "width": 1024,
                 "height": 768
             }
@@ -84,21 +76,11 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Повторно открыть закрытый редактор"
+                                    "label": "&&Повторно открыть закрытый редактор",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/m_lomakin/test/Project/Project",
-                                        "path": "/home/m_lomakin/test/Project/Project",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/test/Project/Project"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -135,6 +117,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/m_lomakin/test/Project/Project/README.md",
+                                        "path": "/home/m_lomakin/test/Project/Project/README.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/test/Project/Project/README.md"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -226,13 +219,6 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Экспортировать профиль (По умолчанию)…"
                                 },
@@ -299,11 +285,6 @@
                                     }
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.manage",
-                                    "label": "Синхронизация параметров включена.",
-                                    "checked": true
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -365,7 +346,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Закрыть &&папку"
+                        "label": "Закрыть &&рабочую область"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -796,7 +777,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Перенос по словам"
+                        "label": "&&Перенос по словам",
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -808,7 +790,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Назад"
+                        "label": "&&Назад",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -817,7 +800,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Место последнего изменения"
+                        "label": "&&Место последнего изменения",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1309,9 +1293,8 @@
                 "userSettingsLabel": "ctrl+shift+s"
             },
             "workbench.action.openSettings": {
-                "label": "CTRL+SHIFT+.",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[Slash]"
+                "label": "Ctrl+,",
+                "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1381,9 +1364,8 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "CTRL+SHIFT+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[Backslash]"
+                "label": "Ctrl+/",
+                "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1467,13 +1449,11 @@
                 "userSettingsLabel": "ctrl+j"
             },
             "workbench.action.zoomIn": {
-                "label": "CTRL+=",
-                "isNative": false,
+                "label": "Ctrl+=",
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
-                "label": "CTRL+-",
-                "isNative": false,
+                "label": "Ctrl+-",
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1482,9 +1462,9 @@
                 "userSettingsLabel": "ctrl+numpad0"
             },
             "workbench.action.splitEditorInGroup": {
-                "label": "CTRL+K CTRL+SHIFT+/",
+                "label": "CTRL+K CTRL+SHIFT+\\",
                 "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+[IntlBackslash]"
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1519,18 +1499,20 @@
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
             },
+            "workbench.action.terminal.toggleTerminal": {
+                "label": "Ctrl+`",
+                "userSettingsLabel": "ctrl+`"
+            },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
             },
             "workbench.action.navigateBack": {
-                "label": "CTRL+ALT+-",
-                "isNative": false,
+                "label": "Ctrl+Alt+-",
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
-                "label": "CTRL+SHIFT+-",
-                "isNative": false,
+                "label": "Ctrl+Shift+-",
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1625,9 +1607,8 @@
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "CTRL+SHIFT+/",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[IntlBackslash]"
+                "label": "Ctrl+Shift+\\",
+                "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1684,6 +1665,10 @@
             "editor.debug.action.toggleInlineBreakpoint": {
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
+            },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",

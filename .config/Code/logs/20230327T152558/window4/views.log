@@ -12,3 +12,13 @@
 2023-03-27 15:30:41.631 [info] Added views:workbench.debug.welcome in workbench.view.debug
 2023-03-27 15:30:42.549 [info] Added views:workbench.scm.repositories in workbench.view.scm
 2023-03-27 19:42:24.656 [info] Removed views:workbench.scm.repositories from workbench.view.scm
+2023-03-27 20:45:29.711 [info] Added views:workbench.explorer.emptyView in workbench.view.explorer
+2023-03-27 20:45:29.860 [info] Removed views:workbench.explorer.fileView from workbench.view.explorer
+2023-03-27 20:45:43.977 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2023-03-27 20:45:47.395 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-03-27 20:46:38.323 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-03-27 20:46:38.358 [info] Removed views:workbench.explorer.emptyView from workbench.view.explorer
+2023-03-27 20:46:39.428 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2023-03-27 20:46:39.867 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-03-27 20:46:41.109 [info] Added views:workbench.scm.repositories in workbench.view.scm
+2023-03-27 21:04:13.965 [info] Removed views:workbench.scm.repositories from workbench.view.scm

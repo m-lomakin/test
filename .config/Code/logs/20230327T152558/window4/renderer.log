@@ -7,3 +7,19 @@
     at n.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2066)
     at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1704)
     at ge (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:84:27982)
+2023-03-27 20:45:07.001 [error] Не удалось считать файл "/home/m_lomakin/test/Project/Project/Project/js/app.js" (Error: Невозможно разрешить несуществующий файл "/home/m_lomakin/test/Project/Project/Project/js/app.js"): Error: Не удалось считать файл "/home/m_lomakin/test/Project/Project/Project/js/app.js" (Error: Невозможно разрешить несуществующий файл "/home/m_lomakin/test/Project/Project/Project/js/app.js")
+    at o.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:615:17298)
+    at o.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:615:16960)
+    at async m.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:34974)
+    at async m.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:34669)
+    at async Ns.Ab (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2305:54190)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:30714
+2023-03-27 20:45:07.886 [error] Error: Не удалось открыть редактор, так как файл не найден.
+    at d.bc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2292:89460)
+    at async d.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2292:88446)
+    at async a.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:22975)
+    at async a.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:21570)
+    at async a.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:20473)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13498
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2510:48325
+2023-03-27 20:46:42.991 [error] Git error

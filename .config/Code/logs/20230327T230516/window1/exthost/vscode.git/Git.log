@@ -1,0 +1,14 @@
+2023-03-27 23:05:31.233 [info] Уровень ведения журнала: Info
+2023-03-27 23:05:31.233 [info] Проверка найденного Git в: "git"
+2023-03-27 23:05:31.233 [info] Используется Git "2.34.1" из "git"
+2023-03-27 23:05:31.293 [info] > git rev-parse --show-toplevel [65ms]
+2023-03-27 23:05:31.391 [info] > git rev-parse --git-dir --git-common-dir [49ms]
+2023-03-27 23:05:31.416 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 23:05:31.474 [info] > git config --get commit.template [24ms]
+2023-03-27 23:05:31.474 [info] > git rev-parse --show-toplevel [46ms]
+2023-03-27 23:05:31.744 [info] > git rev-parse --git-dir --git-common-dir [255ms]
+2023-03-27 23:05:31.783 [info] Open repository: /home/m_lomakin/test/Project/Project
+2023-03-27 23:05:31.840 [info] > git rev-parse --show-toplevel [33ms]
+2023-03-27 23:05:31.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [122ms]
+2023-03-27 23:05:32.214 [info] > git rev-parse --show-toplevel [354ms]
+2023-03-27 23:05:32.226 [info] > git config --get commit.template [387ms]

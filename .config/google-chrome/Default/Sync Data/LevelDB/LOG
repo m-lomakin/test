@@ -1,30 +1,3 @@
-2023/03/27-13:34:24.107 1108 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000002
-2023/03/27-13:34:24.108 1108 Recovering log #10
-2023/03/27-13:34:24.109 1108 Reusing old log /home/m_lomakin/.config/google-chrome/Default/Sync Data/LevelDB/000010.log 
-2023/03/27-13:38:02.526 1108 Level-0 table #14: started
-2023/03/27-13:38:02.590 1108 Level-0 table #14: 125599 bytes OK
-2023/03/27-13:38:02.636 1108 Delete type=0 #10
-2023/03/27-14:46:24.327 1109 Level-0 table #16: started
-2023/03/27-14:46:24.412 1109 Level-0 table #16: 91178 bytes OK
-2023/03/27-14:46:24.442 1109 Delete type=0 #13
-2023/03/27-15:42:28.211 1108 Level-0 table #18: started
-2023/03/27-15:42:28.347 1108 Level-0 table #18: 101874 bytes OK
-2023/03/27-15:42:28.413 1108 Delete type=0 #15
-2023/03/27-15:42:28.414 1108 Compacting 4@0 + 1@1 files
-2023/03/27-15:42:28.600 1108 Generated table #19@0: 86 keys, 17141 bytes
-2023/03/27-15:42:28.600 1108 Compacted 4@0 + 1@1 files => 17141 bytes
-2023/03/27-15:42:28.645 1108 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/27-15:42:28.645 1108 Delete type=2 #14
-2023/03/27-15:42:28.645 1108 Delete type=2 #16
-2023/03/27-15:42:28.645 1108 Delete type=2 #18
-2023/03/27-15:42:28.645 1108 Delete type=2 #11
-2023/03/27-15:42:28.645 1108 Delete type=2 #8
-2023/03/27-18:02:15.006 1107 Level-0 table #21: started
-2023/03/27-18:02:15.061 1107 Level-0 table #21: 99813 bytes OK
-2023/03/27-18:02:15.107 1107 Delete type=0 #17
-2023/03/27-19:30:26.687 1109 Level-0 table #23: started
-2023/03/27-19:30:26.759 1109 Level-0 table #23: 94803 bytes OK
-2023/03/27-19:30:26.817 1109 Delete type=0 #20
-2023/03/27-19:40:13.650 1108 Level-0 table #25: started
-2023/03/27-19:40:13.689 1108 Level-0 table #25: 82981 bytes OK
-2023/03/27-19:40:13.718 1108 Delete type=0 #22
+2023/03/28-08:05:46.823 a27 Reusing MANIFEST /home/m_lomakin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000002
+2023/03/28-08:05:46.961 a27 Recovering log #39
+2023/03/28-08:05:47.082 a27 Reusing old log /home/m_lomakin/.config/google-chrome/Default/Sync Data/LevelDB/000039.log 

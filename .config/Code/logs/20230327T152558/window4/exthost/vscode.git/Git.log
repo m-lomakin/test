@@ -724,3 +724,59 @@
 2023-03-27 19:39:25.765 [info] > git show --textconv :Project/js/app.js [8ms]
 2023-03-27 19:42:24.647 [warning] ENOENT: no such file or directory, open '/home/m_lomakin/test/Project/Project/.git/HEAD'
 2023-03-27 19:42:24.672 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/m_lomakin/test/Project/Project/.git/config'
+2023-03-27 20:45:51.796 [info] Уровень ведения журнала: Info
+2023-03-27 20:45:51.885 [info] Проверка найденного Git в: "git"
+2023-03-27 20:45:51.924 [info] Используется Git "2.34.1" из "git"
+2023-03-27 20:46:40.703 [info] Уровень ведения журнала: Info
+2023-03-27 20:46:40.704 [info] Проверка найденного Git в: "git"
+2023-03-27 20:46:40.704 [info] Используется Git "2.34.1" из "git"
+2023-03-27 20:46:40.843 [info] > git rev-parse --show-toplevel [148ms]
+2023-03-27 20:46:41.040 [info] > git rev-parse --git-dir --git-common-dir [97ms]
+2023-03-27 20:46:41.138 [info] Open repository: /home/m_lomakin/test/Project
+2023-03-27 20:46:41.255 [info] > git rev-parse --show-toplevel [49ms]
+2023-03-27 20:46:41.280 [info] > git config --get commit.template [28ms]
+2023-03-27 20:46:41.305 [info] > git rev-parse --show-toplevel [34ms]
+2023-03-27 20:46:41.348 [info] > git rev-parse --show-toplevel [14ms]
+2023-03-27 20:46:41.448 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [145ms]
+2023-03-27 20:46:41.483 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/Project/Project/index.html [95ms]
+2023-03-27 20:46:41.557 [info] > git status -z -uall [92ms]
+2023-03-27 20:46:41.594 [info] > git config --get commit.template [2ms]
+2023-03-27 20:46:41.611 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-27 20:46:41.625 [info] > git status -z -uall [3ms]
+2023-03-27 20:46:41.756 [info] > git show --textconv :Project/Project/index.html [46ms]
+2023-03-27 20:46:41.925 [info] > git check-ignore -v -z --stdin [7ms]
+2023-03-27 20:46:42.601 [info] > git show --textconv :index.html [102ms]
+2023-03-27 20:46:42.603 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [73ms]
+2023-03-27 20:46:42.621 [info] > git cat-file -s dc485cd4ef5c4e73857a0937c5556e4769f2b545 [5ms]
+2023-03-27 20:46:42.878 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/Project/Project/index.html [26ms]
+2023-03-27 20:46:42.883 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [7ms]
+2023-03-27 20:46:42.925 [info] > git cat-file -s dc485cd4ef5c4e73857a0937c5556e4769f2b545 [12ms]
+2023-03-27 20:46:42.929 [info] > git show --textconv :Project/Project/index.html [5ms]
+2023-03-27 20:46:43.064 [info] > git show --textconv :index.html [15ms]
+2023-03-27 20:46:44.510 [info] > git fetch [3371ms]
+2023-03-27 20:46:44.510 [info] Из https://github.com/m-lomakin/Project
+ * [новая ветка]     main       -> origin/main
+2023-03-27 20:46:44.560 [info] > git config --get commit.template [23ms]
+2023-03-27 20:46:44.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-27 20:46:44.621 [info] > git status -z -uall [6ms]
+2023-03-27 20:46:45.737 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [15ms]
+2023-03-27 20:46:45.756 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/Project/Project/index.html [55ms]
+2023-03-27 20:46:45.779 [info] > git cat-file -s dc485cd4ef5c4e73857a0937c5556e4769f2b545 [24ms]
+2023-03-27 20:46:45.783 [info] > git show --textconv :Project/Project/index.html [4ms]
+2023-03-27 20:46:45.802 [info] > git show --textconv :index.html [2ms]
+2023-03-27 20:46:58.798 [info] > git config --get commit.template [5ms]
+2023-03-27 20:46:58.818 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-27 20:46:58.842 [info] > git status -z -uall [6ms]
+2023-03-27 21:04:11.848 [info] > git config --get commit.template [33ms]
+2023-03-27 21:04:11.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2023-03-27 21:04:11.945 [info] > git status -z -uall [42ms]
+2023-03-27 21:04:11.954 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [10ms]
+2023-03-27 21:04:11.992 [info] > git cat-file -s d2f690d610247e1517d2c650a098cb01da28bfce [6ms]
+2023-03-27 21:04:12.183 [info] > git show --textconv :index.html [8ms]
+2023-03-27 21:04:12.522 [info] > git fetch [741ms]
+2023-03-27 21:04:12.551 [info] > git config --get commit.template [16ms]
+2023-03-27 21:04:12.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-03-27 21:04:12.567 [info] > git status -z -uall [2ms]
+2023-03-27 21:04:13.725 [info] > git ls-files --stage -- /home/m_lomakin/test/Project/index.html [5ms]
+2023-03-27 21:04:13.740 [info] > git cat-file -s d2f690d610247e1517d2c650a098cb01da28bfce [3ms]
+2023-03-27 21:04:13.752 [info] > git show --textconv :index.html [1ms]

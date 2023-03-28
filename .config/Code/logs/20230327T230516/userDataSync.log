@@ -1,0 +1,12 @@
+2023-03-27 23:05:24.771 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-03-27 23:05:24.771 [info] Auto Sync is enabled.
+2023-03-27 23:05:24.771 [info] Auto Sync: Suspended until auth token is available.
+2023-03-27 23:05:24.994 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/extensions
+2023-03-27 23:05:25.014 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/globalState
+2023-03-27 23:05:25.022 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/keybindings
+2023-03-27 23:05:25.035 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/profiles
+2023-03-27 23:05:25.039 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/settings
+2023-03-27 23:05:25.053 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/snippets
+2023-03-27 23:05:25.062 [info] Deleting non existing profile from backup /home/m_lomakin/.config/Code/User/sync/tasks
+2023-03-27 23:05:31.459 [info] Auto Sync: Triggered by Interval
+2023-03-27 23:05:31.473 [info] Sync started.

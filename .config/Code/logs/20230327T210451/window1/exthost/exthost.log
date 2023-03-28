@@ -1,0 +1,15 @@
+2023-03-27 21:04:58.248 [info] Extension host with pid 16194 started
+2023-03-27 21:04:58.248 [info] Skipping acquiring lock for /home/m_lomakin/.config/Code/User/workspaceStorage/3c5df32debc9de8a424c746a076ecfad.
+2023-03-27 21:04:58.498 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-27 21:04:58.500 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-27 21:04:58.501 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-27 21:04:59.707 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-27 21:04:59.708 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-27 21:05:02.370 [info] Eager extensions activated
+2023-03-27 21:05:02.457 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 21:05:02.459 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 21:05:03.090 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-27 21:05:03.743 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-27 21:05:04.777 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-27 21:05:04.779 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-27 21:05:04.780 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
